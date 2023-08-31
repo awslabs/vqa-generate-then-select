@@ -1,0 +1,6 @@
+[submodule "KAT"]
+	path = KAT
+	url = https://github.com/guilk/KAT.git
+[submodule "PICa"]
+	path = PICa
+	url = https://github.com/microsoft/PICa.git

@@ -1,0 +1,36 @@
+Please answer the questions according to the above context.
+
+Context: Two people are holding their martini glasses together.
+===
+Question: How old do you have to be in canada to do this?
+Answer: From the context, because two people are holding their martini glasses together and martini is alcohol, so 'this' means drinking alcohol. So the question is asking how old you have to be in canada to drink alcohol. So the answer is 18.
+
+Context: A dog stands behind a wire door outside
+===
+Question: Which wild animal that hunts in packs is related to this animal seen here?
+Answer: From the context, because a dog stands behind a wire door outside, this animal seen here is the dog. So the question is asking which wild animal that hunts in packs is related to dog. So the answer is wolf.
+
+Context: a black motorcycle parked in a parking lot.
+===
+Question: What sport can you use this for?
+Answer:From the context, this means a black motorcycle parked in a parking lot. So the question is asking what sport you can use a motorcycle for. So the answer is race.
+
+Context: a couple of cows are standing in a pin. building, night, ground, outdoor, window, house, waste container
+===
+Question: Are these animals mammals or insects?
+Answer: From the context, these animals refer to a couple of cows standing in a pin. So the question is asking if cows are mammals or insects. So the answer is mammals.
+
+Context: an orange flower in a metal vase on a blue background.. plant, flower, indoor, orange, lily, still life photography, vase
+===
+Question: What does this grow from?
+Answer: From the context, this means an orange flower in a metal vase on a blue background. So the question is asking what an orange flower grows from. So the answer is a plant.
+
+Context: a person sitting on a bench in the water.. shore, sky, tree, water, boat, person, lake, people, park, river, ground, outdoor, bench, cloud
+===
+Question: What weather phenomenon most likely happened?
+Answer: From the context, a person sitting on a bench in the water means there is water on the ground. So the question is asking what weather phenomenon most likely happened when water is on the ground. So the answer is flood.
+
+Context: a man riding a wave on top of a surfboard.
+===
+Question: What is the person in the photo wearing?
+Answer: From the context, the person in the photo is a man riding a wave on top of a surfboard. So the question is asking what a man riding a wave on top of a surfboard is wearing. So the answer is a wet suit.
